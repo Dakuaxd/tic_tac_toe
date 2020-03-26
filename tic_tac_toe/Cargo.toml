@@ -1,0 +1,10 @@
+[package]
+name = "tic_tac_toe"
+version = "1.0"
+authors = ["Dakuaxd <dillonren02@gmail.com>, Voovs <vselin12@gmail.com>"]
+edition = "2020"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
