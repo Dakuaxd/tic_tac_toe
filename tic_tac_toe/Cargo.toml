@@ -1,8 +1,8 @@
 [package]
 name = "tic_tac_toe"
-version = "1.0"
+version = "0.1.0"
 authors = ["Dakuaxd <dillonren02@gmail.com>, Voovs <vselin12@gmail.com>"]
-edition = "2020"
+edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
